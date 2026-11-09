@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0302"
+secret: "nmm2dsr0"
+owner:
+  username: "taku-0127"
+  id: 337922773
+  accepted_at: "2026-11-09T02:34:18Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0302-scanf_double"
+  branch: "main"
